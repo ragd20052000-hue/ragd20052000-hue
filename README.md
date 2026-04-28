@@ -1,33 +1,69 @@
-## Hi there 👋
 
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+## 👩‍💻 About Me
 
-📊 **this week i spent my time on:**
+Hi, I'm Raghd 👋
+🎓 AI Student passionate about building smart systems
+📊 Interested in Data Analysis, Machine Learning & Deep Learning
+💡 Currently learning: Python, Data Structures, Excel & SPSS
+🚀 Goal: Become a professional AI Engineer
+
+---
+
+## 📬 Contact Me
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+🌐 Portfolio: (add your website here)
+
+---
+
+## 📊 Weekly Coding Stats
+
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    8 hrs 19 mins         █████████████████▓░░░░░░░   70.94 %
-CSS           2 hrs 20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Markdown      25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Python        10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-JavaScript    10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Python        6 hrs 10 mins   ███████████████░░░░░░░░░░   60%
+Jupyter       2 hrs           █████░░░░░░░░░░░░░░░░░░░░   20%
+SQL           1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   10%
+Java          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   8%
+Other         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2%
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## ☕ Support Me
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+If you like my work, feel free to support me 💙
 
+[Buy Me a Coffee](https://www.buymeacoffee.com/yourname)
 
-📈 my github stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🚧 Current Goals
+
+* Build Machine Learning Projects
+* Master Deep Learning (ANN, CNN)
+* Create AI Portfolio
+* Get Internship in Saudi Arabia 🇸🇦
+
+---
+
+## 🧠 Skills I'm Learning
+
+* Python 🐍
+* Machine Learning 🤖
+* Data Analysis 📊
+* Java ☕
+* SPSS
+
+---
+
