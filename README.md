@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Hi, I'm Raghd 👩‍💻✨</h1>
 
 <p align="center">
@@ -8,7 +7,7 @@
 <p align="center">
 🌸 Passionate about building smart systems & intelligent applications<br>
 📊 Interested in Data Analysis, Machine Learning & Deep Learning<br>
-🚀 Currently learning: Python, Data Structures, Excel & SPSS
+🚀 Currently learning: Python, Data Structures, Excel & Power BI
 </p>
 
 ---
@@ -24,15 +23,15 @@
 ## 🧠 Skills I'm Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,excel,powerbi" />
 </p>
 
 💖 Python 🐍  
 💖 Machine Learning 🤖  
 💖 Deep Learning 🧠  
 💖 Data Analysis 📊  
-💖 Java ☕  
-💖 SPSS  
+💖 Excel 📊  
+💖 Power BI 📈  
 
 ---
 
@@ -41,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python        6 hrs 10 mins   ███████████████░░░░░░░░░░   60%
-Jupyter       2 hrs           █████░░░░░░░░░░░░░░░░░░░░   20%
-SQL           1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   10%
-Java          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   8%
-Other         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2%
+Excel         30 hrs   ███████████████░░░░░░░░░░   30%
+Power BI      15 hrs   ███████░░░░░░░░░░░░░░░░░░   15%
+Python        45 hrs   █████████████████████░░░░   45%
+SQL           10 hrs   █████░░░░░░░░░░░░░░░░░░░░   10%
