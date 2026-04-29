@@ -1,18 +1,38 @@
 
-## 👩‍💻 About Me
+<h1 align="center">✨ Hi, I'm Raghd 👩‍💻✨</h1>
 
-Hi, I'm Raghd 👋
-🎓 AI Student passionate about building smart systems
-📊 Interested in Data Analysis, Machine Learning & Deep Learning
-💡 Currently learning: Python, Data Structures, Excel & SPSS
-🚀 Goal: Become a professional AI Engineer
+<p align="center">
+🎓 AI Student | 🤖 Future AI Engineer | 💡 Tech Lover
+</p>
+
+<p align="center">
+🌸 Passionate about building smart systems & intelligent applications<br>
+📊 Interested in Data Analysis, Machine Learning & Deep Learning<br>
+🚀 Currently learning: Python, Data Structures, Excel & SPSS
+</p>
 
 ---
 
-## 📬 Contact Me
+## 🌸 Typing Animation
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🌐 Portfolio: (add your website here)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=AI+Student+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%92%BB;Data+Lover+%F0%9F%93%8A;Always+Learning+%F0%9F%8C%B8" />
+</p>
+
+---
+
+## 🧠 Skills I'm Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+</p>
+
+💖 Python 🐍  
+💖 Machine Learning 🤖  
+💖 Deep Learning 🧠  
+💖 Data Analysis 📊  
+💖 Java ☕  
+💖 SPSS  
 
 ---
 
@@ -26,44 +46,3 @@ Jupyter       2 hrs           █████░░░░░░░░░░░�
 SQL           1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   10%
 Java          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   8%
 Other         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2%
-```
-
-<!--END_SECTION:waka-->
-
----
-
-## ☕ Support Me
-
-If you like my work, feel free to support me 💙
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/yourname)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🚧 Current Goals
-
-* Build Machine Learning Projects
-* Master Deep Learning (ANN, CNN)
-* Create AI Portfolio
-* Get Internship in Saudi Arabia 🇸🇦
-
----
-
-## 🧠 Skills I'm Learning
-
-* Python 🐍
-* Machine Learning 🤖
-* Data Analysis 📊
-* Java ☕
-* SPSS
-
----
-
