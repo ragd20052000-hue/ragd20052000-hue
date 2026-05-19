@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=AI+Student+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%92%BB;Data+Lover+%F0%9F%93%8A;Always+Learning+%F0%9F%8C%B8" />
-https://neural-nexus-copy-af513728.base44.app
+
   
 </p>
 
